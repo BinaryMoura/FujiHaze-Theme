@@ -46,57 +46,57 @@ A deep, calming dark theme with vibrant accents inspired by twilight over rural 
 
 | Role | Color | Hex | Preview |
 |------|-------|-----|---------|
-| Background | Charcoal | `#1A1A1A` | ![](https://via.placeholder.com/20/1A1A1A/1A1A1A?text=+) |
-| Surface | Dark Slate | `#3B3F45` | ![](https://via.placeholder.com/20/3B3F45/3B3F45?text=+) |
-| Primary Text | Soft White | `#F0F0F0` | ![](https://via.placeholder.com/20/F0F0F0/F0F0F0?text=+) |
-| Muted Text | Cool Gray | `#8B8E99` | ![](https://via.placeholder.com/20/8B8E99/8B8E99?text=+) |
-| Accent (Keywords) | Sakura Pink | `#FF75B5` | ![](https://via.placeholder.com/20/FF75B5/FF75B5?text=+) |
-| Accent (Functions) | Fuji Blue | `#6FC1FF` | ![](https://via.placeholder.com/20/6FC1FF/6FC1FF?text=+) |
-| Accent (Strings) | Wasabi Green | `#19F9D8` | ![](https://via.placeholder.com/20/19F9D8/19F9D8?text=+) |
-| Accent (Constants) | Amber Field | `#FFB86C` | ![](https://via.placeholder.com/20/FFB86C/FFB86C?text=+) |
-| Accent (Focus/Border) | Sunset Coral | `#FF4B82` | ![](https://via.placeholder.com/20/FF4B82/FF4B82?text=+) |
-| Terminal Yellow | Harvest Gold | `#F1AD57` | ![](https://via.placeholder.com/20/F1AD57/F1AD57?text=+) |
-| Terminal Blue | Sky Blue | `#45A9F9` | ![](https://via.placeholder.com/20/45A9F9/45A9F9?text=+) |
-| Terminal Magenta | Soft Pink | `#FF75B5` | ![](https://via.placeholder.com/20/FF75B5/FF75B5?text=+) |
-| Terminal Cyan | Lavender | `#B084EB` | ![](https://via.placeholder.com/20/B084EB/B084EB?text=+) |
+| Background | Charcoal | `#1A1A1A` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%231A1A1A'/%3E%3C/svg%3E" width="20" height="20"> |
+| Surface | Dark Slate | `#3B3F45` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%233B3F45'/%3E%3C/svg%3E" width="20" height="20"> |
+| Primary Text | Soft White | `#F0F0F0` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%23F0F0F0'/%3E%3C/svg%3E" width="20" height="20"> |
+| Muted Text | Cool Gray | `#8B8E99` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%238B8E99'/%3E%3C/svg%3E" width="20" height="20"> |
+| Accent (Keywords) | Sakura Pink | `#FF75B5` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%23FF75B5'/%3E%3C/svg%3E" width="20" height="20"> |
+| Accent (Functions) | Fuji Blue | `#6FC1FF` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%236FC1FF'/%3E%3C/svg%3E" width="20" height="20"> |
+| Accent (Strings) | Wasabi Green | `#19F9D8` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%2319F9D8'/%3E%3C/svg%3E" width="20" height="20"> |
+| Accent (Constants) | Amber Field | `#FFB86C` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%23FFB86C'/%3E%3C/svg%3E" width="20" height="20"> |
+| Accent (Focus/Border) | Sunset Coral | `#FF4B82` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%23FF4B82'/%3E%3C/svg%3E" width="20" height="20"> |
+| Terminal Yellow | Harvest Gold | `#F1AD57` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%23F1AD57'/%3E%3C/svg%3E" width="20" height="20"> |
+| Terminal Blue | Sky Blue | `#45A9F9` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%2345A9F9'/%3E%3C/svg%3E" width="20" height="20"> |
+| Terminal Magenta | Soft Pink | `#FF75B5` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%23FF75B5'/%3E%3C/svg%3E" width="20" height="20"> |
+| Terminal Cyan | Lavender | `#B084EB` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%23B084EB'/%3E%3C/svg%3E" width="20" height="20"> |
 
 ### FujiHaze Countryside
 A clean, bright light theme with natural green undertones, evoking the crisp air of rural Japan during midday.
 
 | Role | Color | Hex | Preview |
 |------|-------|-----|---------|
-| Background | Rice Paper | `#F5F7F0` | ![](https://via.placeholder.com/20/F5F7F0/F5F7F0?text=+) |
-| Surface | Pale Sage | `#EEF1E8` | ![](https://via.placeholder.com/20/EEF1E8/EEF1E8?text=+) |
-| Primary Text | Deep Forest | `#3D4A35` | ![](https://via.placeholder.com/20/3D4A35/3D4A35?text=+) |
-| Muted Text | Moss Gray | `#6B7A60` | ![](https://via.placeholder.com/20/6B7A60/6B7A60?text=+) |
-| Accent (Keywords) | Roof Rust | `#8B4545` | ![](https://via.placeholder.com/20/8B4545/8B4545?text=+) |
-| Accent (Functions) | Slate Blue | `#5A8A9A` | ![](https://via.placeholder.com/20/5A8A9A/5A8A9A?text=+) |
-| Accent (Strings) | Bamboo Green | `#8FA855` | ![](https://via.placeholder.com/20/8FA855/8FA855?text=+) |
-| Accent (Constants) | Autumn Gold | `#B87840` | ![](https://via.placeholder.com/20/B87840/B87840?text=+) |
-| Accent (Focus/Border) | Moss Green | `#8FA855` | ![](https://via.placeholder.com/20/8FA855/8FA855?text=+) |
-| Terminal Green | Fern | `#6B8E4E` | ![](https://via.placeholder.com/20/6B8E4E/6B8E4E?text=+) |
-| Terminal Blue | River Blue | `#6BB3C7` | ![](https://via.placeholder.com/20/6BB3C7/6BB3C7?text=+) |
-| Terminal Yellow | Wheat | `#D09050` | ![](https://via.placeholder.com/20/D09050/D09050?text=+) |
-| Terminal Red | Brick | `#A85A5A` | ![](https://via.placeholder.com/20/A85A5A/A85A5A?text=+) |
+| Background | Rice Paper | `#F5F7F0` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%23F5F7F0'/%3E%3C/svg%3E" width="20" height="20"> |
+| Surface | Pale Sage | `#EEF1E8` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%23EEF1E8'/%3E%3C/svg%3E" width="20" height="20"> |
+| Primary Text | Deep Forest | `#3D4A35` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%233D4A35'/%3E%3C/svg%3E" width="20" height="20"> |
+| Muted Text | Moss Gray | `#6B7A60` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%236B7A60'/%3E%3C/svg%3E" width="20" height="20"> |
+| Accent (Keywords) | Roof Rust | `#8B4545` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%238B4545'/%3E%3C/svg%3E" width="20" height="20"> |
+| Accent (Functions) | Slate Blue | `#5A8A9A` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%235A8A9A'/%3E%3C/svg%3E" width="20" height="20"> |
+| Accent (Strings) | Bamboo Green | `#8FA855` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%238FA855'/%3E%3C/svg%3E" width="20" height="20"> |
+| Accent (Constants) | Autumn Gold | `#B87840` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%23B87840'/%3E%3C/svg%3E" width="20" height="20"> |
+| Accent (Focus/Border) | Moss Green | `#8FA855` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%238FA855'/%3E%3C/svg%3E" width="20" height="20"> |
+| Terminal Green | Fern | `#6B8E4E` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%236B8E4E'/%3E%3C/svg%3E" width="20" height="20"> |
+| Terminal Blue | River Blue | `#6BB3C7` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%236BB3C7'/%3E%3C/svg%3E" width="20" height="20"> |
+| Terminal Yellow | Wheat | `#D09050` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%23D09050'/%3E%3C/svg%3E" width="20" height="20"> |
+| Terminal Red | Brick | `#A85A5A` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%23A85A5A'/%3E%3C/svg%3E" width="20" height="20"> |
 
 ### FujiHaze Morning Mist
 A soft light theme with cool blue undertones, capturing the gentle atmosphere of early morning fog.
 
 | Role | Color | Hex | Preview |
 |------|-------|-----|---------|
-| Background | Mist White | `#F0F5F8` | ![](https://via.placeholder.com/20/F0F5F8/F0F5F8?text=+) |
-| Surface | Pale Blue | `#E8F0F5` | ![](https://via.placeholder.com/20/E8F0F5/E8F0F5?text=+) |
-| Primary Text | Ink Black | `#2D3748` | ![](https://via.placeholder.com/20/2D3748/2D3748?text=+) |
-| Muted Text | Fog Gray | `#5A6B7A` | ![](https://via.placeholder.com/20/5A6B7A/5A6B7A?text=+) |
-| Accent (Keywords) | Rustic Red | `#A65D5D` | ![](https://via.placeholder.com/20/A65D5D/A65D5D?text=+) |
-| Accent (Functions) | Morning Sky | `#4A9BB8` | ![](https://via.placeholder.com/20/4A9BB8/4A9BB8?text=+) |
-| Accent (Strings) | Meadow Green | `#6B8E4E` | ![](https://via.placeholder.com/20/6B8E4E/6B8E4E?text=+) |
-| Accent (Constants) | Goldenrod | `#B8984A` | ![](https://via.placeholder.com/20/B8984A/B8984A?text=+) |
-| Accent (Focus/Border) | Cerulean | `#4A9BB8` | ![](https://via.placeholder.com/20/4A9BB8/4A9BB8?text=+) |
-| Terminal Green | Grass | `#8FA855` | ![](https://via.placeholder.com/20/8FA855/8FA855?text=+) |
-| Terminal Cyan | Seafoam | `#7BC4BC` | ![](https://via.placeholder.com/20/7BC4BC/7BC4BC?text=+) |
-| Terminal Magenta | Soft Purple | `#B89CD4` | ![](https://via.placeholder.com/20/B89CD4/B89CD4?text=+) |
-| Terminal Blue | Sky | `#6BB3C7` | ![](https://via.placeholder.com/20/6BB3C7/6BB3C7?text=+) |
+| Background | Mist White | `#F0F5F8` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%23F0F5F8'/%3E%3C/svg%3E" width="20" height="20"> |
+| Surface | Pale Blue | `#E8F0F5` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%23E8F0F5'/%3E%3C/svg%3E" width="20" height="20"> |
+| Primary Text | Ink Black | `#2D3748` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%232D3748'/%3E%3C/svg%3E" width="20" height="20"> |
+| Muted Text | Fog Gray | `#5A6B7A` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%235A6B7A'/%3E%3C/svg%3E" width="20" height="20"> |
+| Accent (Keywords) | Rustic Red | `#A65D5D` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%23A65D5D'/%3E%3C/svg%3E" width="20" height="20"> |
+| Accent (Functions) | Morning Sky | `#4A9BB8` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%234A9BB8'/%3E%3C/svg%3E" width="20" height="20"> |
+| Accent (Strings) | Meadow Green | `#6B8E4E` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%236B8E4E'/%3E%3C/svg%3E" width="20" height="20"> |
+| Accent (Constants) | Goldenrod | `#B8984A` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%23B8984A'/%3E%3C/svg%3E" width="20" height="20"> |
+| Accent (Focus/Border) | Cerulean | `#4A9BB8` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%234A9BB8'/%3E%3C/svg%3E" width="20" height="20"> |
+| Terminal Green | Grass | `#8FA855` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%238FA855'/%3E%3C/svg%3E" width="20" height="20"> |
+| Terminal Cyan | Seafoam | `#7BC4BC` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%237BC4BC'/%3E%3C/svg%3E" width="20" height="20"> |
+| Terminal Magenta | Soft Purple | `#B89CD4` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%23B89CD4'/%3E%3C/svg%3E" width="20" height="20"> |
+| Terminal Blue | Sky | `#6BB3C7` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%236BB3C7'/%3E%3C/svg%3E" width="20" height="20"> |
 
 ## Installation
 

@@ -24,6 +24,21 @@ A serene Zed IDE theme inspired by the quiet beauty of Mount Fuji and the peacef
 - **Fuji** - The iconic Mount Fuji, symbol of Japan's natural beauty and tranquility
 - **Haze** - The soft mist that often surrounds the mountain, creating an atmosphere of calm and serenity
 
+## Previews
+
+<table>
+  <tr>
+    <td width="33%" align="center"><b>FujiHaze Dark</b></td>
+    <td width="33%" align="center"><b>FujiHaze Countryside</b></td>
+    <td width="33%" align="center"><b>FujiHaze Morning Mist</b></td>
+  </tr>
+  <tr>
+    <td><img src="assets/fujihaze-dark.png" width="100%" alt="FujiHaze Dark theme preview"></td>
+    <td><img src="assets/fujihaze-countryside.png" width="100%" alt="FujiHaze Countryside theme preview"></td>
+    <td><img src="assets/fujihaze-morningmist.png" width="100%" alt="FujiHaze Morning Mist theme preview"></td>
+  </tr>
+</table>
+
 ## Theme Variations
 
 ### FujiHaze Dark

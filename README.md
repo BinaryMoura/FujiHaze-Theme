@@ -46,57 +46,57 @@ A deep, calming dark theme with vibrant accents inspired by twilight over rural 
 
 | Role | Color | Hex | Preview |
 |------|-------|-----|---------|
-| Background | Charcoal | `#1A1A1A` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%231A1A1A'/%3E%3C/svg%3E" width="20" height="20"> |
-| Surface | Dark Slate | `#3B3F45` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%233B3F45'/%3E%3C/svg%3E" width="20" height="20"> |
-| Primary Text | Soft White | `#F0F0F0` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%23F0F0F0'/%3E%3C/svg%3E" width="20" height="20"> |
-| Muted Text | Cool Gray | `#8B8E99` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%238B8E99'/%3E%3C/svg%3E" width="20" height="20"> |
-| Accent (Keywords) | Sakura Pink | `#FF75B5` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%23FF75B5'/%3E%3C/svg%3E" width="20" height="20"> |
-| Accent (Functions) | Fuji Blue | `#6FC1FF` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%236FC1FF'/%3E%3C/svg%3E" width="20" height="20"> |
-| Accent (Strings) | Wasabi Green | `#19F9D8` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%2319F9D8'/%3E%3C/svg%3E" width="20" height="20"> |
-| Accent (Constants) | Amber Field | `#FFB86C` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%23FFB86C'/%3E%3C/svg%3E" width="20" height="20"> |
-| Accent (Focus/Border) | Sunset Coral | `#FF4B82` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%23FF4B82'/%3E%3C/svg%3E" width="20" height="20"> |
-| Terminal Yellow | Harvest Gold | `#F1AD57` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%23F1AD57'/%3E%3C/svg%3E" width="20" height="20"> |
-| Terminal Blue | Sky Blue | `#45A9F9` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%2345A9F9'/%3E%3C/svg%3E" width="20" height="20"> |
-| Terminal Magenta | Soft Pink | `#FF75B5` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%23FF75B5'/%3E%3C/svg%3E" width="20" height="20"> |
-| Terminal Cyan | Lavender | `#B084EB` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%23B084EB'/%3E%3C/svg%3E" width="20" height="20"> |
+| Background | Charcoal | `#1A1A1A` | ![#1A1A1A](https://img.shields.io/badge/-%231A1A1A-1A1A1A?style=flat-square) |
+| Surface | Dark Slate | `#3B3F45` | ![#3B3F45](https://img.shields.io/badge/-%233B3F45-3B3F45?style=flat-square) |
+| Primary Text | Soft White | `#F0F0F0` | ![#F0F0F0](https://img.shields.io/badge/-%23F0F0F0-F0F0F0?style=flat-square) |
+| Muted Text | Cool Gray | `#8B8E99` | ![#8B8E99](https://img.shields.io/badge/-%238B8E99-8B8E99?style=flat-square) |
+| Accent (Keywords) | Sakura Pink | `#FF75B5` | ![#FF75B5](https://img.shields.io/badge/-%23FF75B5-FF75B5?style=flat-square) |
+| Accent (Functions) | Fuji Blue | `#6FC1FF` | ![#6FC1FF](https://img.shields.io/badge/-%236FC1FF-6FC1FF?style=flat-square) |
+| Accent (Strings) | Wasabi Green | `#19F9D8` | ![#19F9D8](https://img.shields.io/badge/-%2319F9D8-19F9D8?style=flat-square) |
+| Accent (Constants) | Amber Field | `#FFB86C` | ![#FFB86C](https://img.shields.io/badge/-%23FFB86C-FFB86C?style=flat-square) |
+| Accent (Focus/Border) | Sunset Coral | `#FF4B82` | ![#FF4B82](https://img.shields.io/badge/-%23FF4B82-FF4B82?style=flat-square) |
+| Terminal Yellow | Harvest Gold | `#F1AD57` | ![#F1AD57](https://img.shields.io/badge/-%23F1AD57-F1AD57?style=flat-square) |
+| Terminal Blue | Sky Blue | `#45A9F9` | ![#45A9F9](https://img.shields.io/badge/-%2345A9F9-45A9F9?style=flat-square) |
+| Terminal Magenta | Soft Pink | `#FF75B5` | ![#FF75B5](https://img.shields.io/badge/-%23FF75B5-FF75B5?style=flat-square) |
+| Terminal Cyan | Lavender | `#B084EB` | ![#B084EB](https://img.shields.io/badge/-%23B084EB-B084EB?style=flat-square) |
 
 ### FujiHaze Countryside
 A clean, bright light theme with natural green undertones, evoking the crisp air of rural Japan during midday.
 
 | Role | Color | Hex | Preview |
 |------|-------|-----|---------|
-| Background | Rice Paper | `#F5F7F0` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%23F5F7F0'/%3E%3C/svg%3E" width="20" height="20"> |
-| Surface | Pale Sage | `#EEF1E8` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%23EEF1E8'/%3E%3C/svg%3E" width="20" height="20"> |
-| Primary Text | Deep Forest | `#3D4A35` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%233D4A35'/%3E%3C/svg%3E" width="20" height="20"> |
-| Muted Text | Moss Gray | `#6B7A60` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%236B7A60'/%3E%3C/svg%3E" width="20" height="20"> |
-| Accent (Keywords) | Roof Rust | `#8B4545` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%238B4545'/%3E%3C/svg%3E" width="20" height="20"> |
-| Accent (Functions) | Slate Blue | `#5A8A9A` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%235A8A9A'/%3E%3C/svg%3E" width="20" height="20"> |
-| Accent (Strings) | Bamboo Green | `#8FA855` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%238FA855'/%3E%3C/svg%3E" width="20" height="20"> |
-| Accent (Constants) | Autumn Gold | `#B87840` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%23B87840'/%3E%3C/svg%3E" width="20" height="20"> |
-| Accent (Focus/Border) | Moss Green | `#8FA855` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%238FA855'/%3E%3C/svg%3E" width="20" height="20"> |
-| Terminal Green | Fern | `#6B8E4E` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%236B8E4E'/%3E%3C/svg%3E" width="20" height="20"> |
-| Terminal Blue | River Blue | `#6BB3C7` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%236BB3C7'/%3E%3C/svg%3E" width="20" height="20"> |
-| Terminal Yellow | Wheat | `#D09050` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%23D09050'/%3E%3C/svg%3E" width="20" height="20"> |
-| Terminal Red | Brick | `#A85A5A` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%23A85A5A'/%3E%3C/svg%3E" width="20" height="20"> |
+| Background | Rice Paper | `#F5F7F0` | ![#F5F7F0](https://img.shields.io/badge/-%23F5F7F0-F5F7F0?style=flat-square) |
+| Surface | Pale Sage | `#EEF1E8` | ![#EEF1E8](https://img.shields.io/badge/-%23EEF1E8-EEF1E8?style=flat-square) |
+| Primary Text | Deep Forest | `#3D4A35` | ![#3D4A35](https://img.shields.io/badge/-%233D4A35-3D4A35?style=flat-square) |
+| Muted Text | Moss Gray | `#6B7A60` | ![#6B7A60](https://img.shields.io/badge/-%236B7A60-6B7A60?style=flat-square) |
+| Accent (Keywords) | Roof Rust | `#8B4545` | ![#8B4545](https://img.shields.io/badge/-%238B4545-8B4545?style=flat-square) |
+| Accent (Functions) | Slate Blue | `#5A8A9A` | ![#5A8A9A](https://img.shields.io/badge/-%235A8A9A-5A8A9A?style=flat-square) |
+| Accent (Strings) | Bamboo Green | `#8FA855` | ![#8FA855](https://img.shields.io/badge/-%238FA855-8FA855?style=flat-square) |
+| Accent (Constants) | Autumn Gold | `#B87840` | ![#B87840](https://img.shields.io/badge/-%23B87840-B87840?style=flat-square) |
+| Accent (Focus/Border) | Moss Green | `#8FA855` | ![#8FA855](https://img.shields.io/badge/-%238FA855-8FA855?style=flat-square) |
+| Terminal Green | Fern | `#6B8E4E` | ![#6B8E4E](https://img.shields.io/badge/-%236B8E4E-6B8E4E?style=flat-square) |
+| Terminal Blue | River Blue | `#6BB3C7` | ![#6BB3C7](https://img.shields.io/badge/-%236BB3C7-6BB3C7?style=flat-square) |
+| Terminal Yellow | Wheat | `#D09050` | ![#D09050](https://img.shields.io/badge/-%23D09050-D09050?style=flat-square) |
+| Terminal Red | Brick | `#A85A5A` | ![#A85A5A](https://img.shields.io/badge/-%23A85A5A-A85A5A?style=flat-square) |
 
 ### FujiHaze Morning Mist
 A soft light theme with cool blue undertones, capturing the gentle atmosphere of early morning fog.
 
 | Role | Color | Hex | Preview |
 |------|-------|-----|---------|
-| Background | Mist White | `#F0F5F8` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%23F0F5F8'/%3E%3C/svg%3E" width="20" height="20"> |
-| Surface | Pale Blue | `#E8F0F5` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%23E8F0F5'/%3E%3C/svg%3E" width="20" height="20"> |
-| Primary Text | Ink Black | `#2D3748` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%232D3748'/%3E%3C/svg%3E" width="20" height="20"> |
-| Muted Text | Fog Gray | `#5A6B7A` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%235A6B7A'/%3E%3C/svg%3E" width="20" height="20"> |
-| Accent (Keywords) | Rustic Red | `#A65D5D` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%23A65D5D'/%3E%3C/svg%3E" width="20" height="20"> |
-| Accent (Functions) | Morning Sky | `#4A9BB8` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%234A9BB8'/%3E%3C/svg%3E" width="20" height="20"> |
-| Accent (Strings) | Meadow Green | `#6B8E4E` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%236B8E4E'/%3E%3C/svg%3E" width="20" height="20"> |
-| Accent (Constants) | Goldenrod | `#B8984A` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%23B8984A'/%3E%3C/svg%3E" width="20" height="20"> |
-| Accent (Focus/Border) | Cerulean | `#4A9BB8` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%234A9BB8'/%3E%3C/svg%3E" width="20" height="20"> |
-| Terminal Green | Grass | `#8FA855` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%238FA855'/%3E%3C/svg%3E" width="20" height="20"> |
-| Terminal Cyan | Seafoam | `#7BC4BC` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%237BC4BC'/%3E%3C/svg%3E" width="20" height="20"> |
-| Terminal Magenta | Soft Purple | `#B89CD4` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%23B89CD4'/%3E%3C/svg%3E" width="20" height="20"> |
-| Terminal Blue | Sky | `#6BB3C7` | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Crect width='20' height='20' fill='%236BB3C7'/%3E%3C/svg%3E" width="20" height="20"> |
+| Background | Mist White | `#F0F5F8` | ![#F0F5F8](https://img.shields.io/badge/-%23F0F5F8-F0F5F8?style=flat-square) |
+| Surface | Pale Blue | `#E8F0F5` | ![#E8F0F5](https://img.shields.io/badge/-%23E8F0F5-E8F0F5?style=flat-square) |
+| Primary Text | Ink Black | `#2D3748` | ![#2D3748](https://img.shields.io/badge/-%232D3748-2D3748?style=flat-square) |
+| Muted Text | Fog Gray | `#5A6B7A` | ![#5A6B7A](https://img.shields.io/badge/-%235A6B7A-5A6B7A?style=flat-square) |
+| Accent (Keywords) | Rustic Red | `#A65D5D` | ![#A65D5D](https://img.shields.io/badge/-%23A65D5D-A65D5D?style=flat-square) |
+| Accent (Functions) | Morning Sky | `#4A9BB8` | ![#4A9BB8](https://img.shields.io/badge/-%234A9BB8-4A9BB8?style=flat-square) |
+| Accent (Strings) | Meadow Green | `#6B8E4E` | ![#6B8E4E](https://img.shields.io/badge/-%236B8E4E-6B8E4E?style=flat-square) |
+| Accent (Constants) | Goldenrod | `#B8984A` | ![#B8984A](https://img.shields.io/badge/-%23B8984A-B8984A?style=flat-square) |
+| Accent (Focus/Border) | Cerulean | `#4A9BB8` | ![#4A9BB8](https://img.shields.io/badge/-%234A9BB8-4A9BB8?style=flat-square) |
+| Terminal Green | Grass | `#8FA855` | ![#8FA855](https://img.shields.io/badge/-%238FA855-8FA855?style=flat-square) |
+| Terminal Cyan | Seafoam | `#7BC4BC` | ![#7BC4BC](https://img.shields.io/badge/-%237BC4BC-7BC4BC?style=flat-square) |
+| Terminal Magenta | Soft Purple | `#B89CD4` | ![#B89CD4](https://img.shields.io/badge/-%23B89CD4-B89CD4?style=flat-square) |
+| Terminal Blue | Sky | `#6BB3C7` | ![#6BB3C7](https://img.shields.io/badge/-%236BB3C7-6BB3C7?style=flat-square) |
 
 ## Installation
 
@@ -146,4 +146,4 @@ MIT License
 | Image | Photographer | Source |
 |-------|-------------|--------|
 | Mount Fuji at twilight | [Clay Banks](https://unsplash.com/@claybanks) | [Unsplash](https://unsplash.com/photos/mount-fuji-japan-u27Rrbs9Dwc) |
-| Japanese countryside | [Michael Lee](https://unsplash.com/@guoshiwushuang) | [Unsplash](https://unsplash.com/photos/fuji-japan-e5OatuQAfZI)
+| Japanese countryside | [Michael Lee](https://unsplash.com/@guoshiwushuang) | [Unsplash](https://unsplash.com/photos/fuji-japan-e5OatuQAfZI) |
